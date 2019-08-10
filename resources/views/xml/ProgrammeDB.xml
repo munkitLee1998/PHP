@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Programme.xsl"?>
+<programs>
+  <program>
+    <programID>1</programID>
+    <programCode>CCNA 1234</programCode>
+    <programName>Computer Network</programName>
+    <programDesc>Network lo</programDesc>
+    <programDuration>2</programDuration>
+    <programLevel>Diploma</programLevel>
+    <facultyCode/>
+    <branchName>Perak Branch</branchName>
+  </program>
+  <program>
+    <programID>3</programID>
+    <programCode>adfd</programCode>
+    <programName>fadafsdf</programName>
+    <programDesc>asafsda</programDesc>
+    <programDuration>2</programDuration>
+    <programLevel>Diploma</programLevel>
+    <facultyCode/>
+    <branchName>Perak Branch</branchName>
+  </program>
+</programs>

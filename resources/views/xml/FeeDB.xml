@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Fee.xsl"?>
+<fees>
+  <fee>
+    <feeID>2</feeID>
+    <feeName>adfad</feeName>
+    <feeDesc>adfasdfas</feeDesc>
+    <feeType>Short</feeType>
+    <feeAmount>123456</feeAmount>
+    <programCode>CCNA 1234</programCode>
+  </fee>
+  <fee>
+    <feeID>3</feeID>
+    <feeName>adfasd</feeName>
+    <feeDesc>asdfasd</feeDesc>
+    <feeType>Long</feeType>
+    <feeAmount>123131</feeAmount>
+    <programCode>adfd</programCode>
+  </fee>
+</fees>

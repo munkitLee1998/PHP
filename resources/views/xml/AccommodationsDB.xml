@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Accommodation.xsl"?>
+<accommodations>
+  <accommodation>
+    <accID>1</accID>
+    <accName>TARUC Bangunan Tan Siew Sin A</accName>
+    <accType>Double Story</accType>
+    <accRoomType>Master Room</accRoomType>
+    <Address>No 01, Jalan TARUC Taman TARUC</Address>
+    <Fees>20000</Fees>
+  </accommodation>
+  <accommodation>
+    <accID>3</accID>
+    <accName>TARUC CITC</accName>
+    <accType>Double Story</accType>
+    <accRoomType>Small Room</accRoomType>
+    <Address>TARUC CITC Danau Dota</Address>
+    <Fees>666</Fees>
+  </accommodation>
+</accommodations>

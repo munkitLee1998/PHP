@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+  <course>
+    <courseID>3</courseID>
+    <courseName>Integrative programming</courseName>
+    <courseDesc>learn about the PHP programming language</courseDesc>
+    <creditHour>3</creditHour>
+  </course>
+</courses>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="staff.xsl"?>
+<user>
+  <user>
+    <id>1</id>
+    <staffName>ccb</staffName>
+    <staffType>main admin</staffType>
+    <email>ccb@admin.com</email>
+    <password>$2y$10$JXGC8BF9/KoNGCOlJGC2A.JNnfgh8H5rPYYWLf68DvkpfgfdBVauC</password>
+  </user>
+  <user>
+    <id>12</id>
+    <staffName>ccb</staffName>
+    <staffType>faculty admin</staffType>
+    <email>ccb@fa.com</email>
+    <password>$2y$10$E9hlp/8aV6oQ1cxdC1M1/eX891eVc2g6dlzEBjTpuRf7cb8mbhRk2</password>
+  </user>
+  <user>
+    <id>15</id>
+    <staffName>sdds</staffName>
+    <staffType>faculty admin</staffType>
+    <email>b@fs1.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>16</id>
+    <staffName>123</staffName>
+    <staffType>department staff</staffType>
+    <email>123@gmail.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>17</id>
+    <staffName>dssad</staffName>
+    <staffType>department staff</staffType>
+    <email>ada@gmail.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>18</id>
+    <staffName>dssad</staffName>
+    <staffType>department staff</staffType>
+    <email>adsaa@gmail.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>19</id>
+    <staffName>134</staffName>
+    <staffType>faculty admin</staffType>
+    <email>1@gmail.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>20</id>
+    <staffName>134dss</staffName>
+    <staffType>department staff</staffType>
+    <email>21@gmail.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>21</id>
+    <staffName>saa</staffName>
+    <staffType>department staff</staffType>
+    <email>sa@de.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>22</id>
+    <staffName>ccs</staffName>
+    <staffType>faculty admin</staffType>
+    <email>ccb@fa2.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>24</id>
+    <staffName>qwe</staffName>
+    <staffType>department staff</staffType>
+    <email>qwe@de.com</email>
+    <password>qweqweqwe</password>
+  </user>
+  <user>
+    <id>25</id>
+    <staffName>dedede</staffName>
+    <staffType>department staff</staffType>
+    <email>dede@gmail.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>27</id>
+    <staffName>aaasss</staffName>
+    <staffType>faculty admin</staffType>
+    <email>aaa@fa.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>29</id>
+    <staffName>ccasca</staffName>
+    <staffType>faculty admin</staffType>
+    <email>fa@fa.com</email>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>30</id>
+    <staffName>ccb</staffName>
+    <staffType>department staff</staffType>
+    <email>ccb@de.com</email>
+    <password>$2y$10$5YsxSUAtK2XnijI4V5qs1O/XpZ9hYLqa4a.cfKR1JawIF9c4B2z2O</password>
+  </user>
+  <user>
+    <id>31</id>
+    <staffName>ccb</staffName>
+    <staffType>faculty staff</staffType>
+    <email>ccb@fs.com</email>
+    <password>$2y$10$x4CYrOwfDyOCKesqEekLuu99PIUvpkr0v88s3OtZVir1ePRwm16aG</password>
+  </user>
+</user>
